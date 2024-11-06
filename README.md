@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daxitzadafiya" alt="daxitzadafiya" /></a> </p>
 
-- 🌱 I have am good expertise in **PHP, Laravel, Vue.js, React.js, Inertia, Vuetify, Tailwinds, Yii2 etc.**
+- 🌱 I have an good expertise in **PHP, Laravel, Vue.js, React.js, Inertia, Vuetify, Tailwinds, Yii2 etc.**
 
 - 👨‍💻 All of my projects are available at [https://www.zadafiyadaxit.com/](https://www.zadafiyadaxit.com/)
 
